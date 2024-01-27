@@ -1,9 +1,9 @@
-# LineageOS 20 for Redmi Note 10 (sunny/mojito)
+# LineageOS (Unofficial) for Redmi Note 10 (sunny/mojito)
 
 ### Maintained by
 
-**Alonso Jiménez J.**
+**alonsoj636MW**
 
 [XDA Thread](https://forum.xda-developers.com/t/rom-13-unofficial-lineageos-20-sunny-mojito.4436693/)
 
-[My Telegram](https://t.me/alonsoj636MW)
+[Support](https://t.me/rn10potato)
