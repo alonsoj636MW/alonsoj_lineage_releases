@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 0,
+      "filename": "0",
+      "id": "0",
+      "romtype": "unofficial",
+      "size": 0,
+      "url": "example.com",
+      "version": "21.0"
+    }
+  ]
+}
