@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": "0",
-      "filename": "0",
-      "id": "0",
-      "romtype": "0",
-      "size": "0",
-      "url": "0",
-      "version": "0"
+      "datetime": "1721870451",
+      "filename": "lineage-21.0-20240725-AJCL-Vanilla-sunny.zip",
+      "id": "3a0254184b5227d697c635b11955c9cb90fdc72e21fdd7b0a75136df3c6c7c0f",
+      "romtype": "AJCL",
+      "size": "1302979283",
+      "url": "https://github.com/alonsoj636MW/alonsoj_lineage_releases/releases/download/21.0-20240725/lineage-21.0-20240725-AJCL-Vanilla-sunny.zip",
+      "version": "21.0"
     }
   ]
 }
