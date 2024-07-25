@@ -1,1 +1,9 @@
--
+**Changelog**
+• July 2024 Security Patch (r53)
+• OTA Updater is back
+• Drop vendor.qti.hardware.cacert HAL from manifest to fix logspam
+• Enable LZ4 Compression for ramdisks to reduce time taken to boot
+• Update blobs to MIUI V14.0.9.0.SKGMIXM
+• Move to AIDL ServiceTracker HAL
+• Move to AIDL QTI Memtrack HAL
+• Downgrade GPU blobs to V530.54
