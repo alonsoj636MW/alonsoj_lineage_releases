@@ -1,1 +1,4 @@
--
+**Changelog**
+• July 2024 Security Patch
+• Downgrade GPU blobs to V530.54
+• OTA Updater is back
