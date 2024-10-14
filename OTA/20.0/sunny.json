@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1727235189",
-      "filename": "lineage-20.0-20240925-AJCL-sunny.zip",
-      "id": "8fa603f7b51ed70a1e193163c9265d5ce9e50d325f515fd7ab76992c06ce5278",
+      "datetime": "1728934265",
+      "filename": "lineage-20.0-20241014-AJCL-sunny.zip",
+      "id": "78802c355e045f21503be32884421f570efb29bd7c74f1ae9fe2df04aa93e9a2",
       "romtype": "AJCL",
-      "size": "1262339610",
-      "url": "https://github.com/alonsoj636MW/alonsoj_lineage_releases/releases/download/20.0-20240925/lineage-20.0-20240925-AJCL-sunny.zip",
+      "size": "1266548258",
+      "url": "https://github.com/alonsoj636MW/alonsoj_lineage_releases/releases/download/20.0-20241014/lineage-20.0-20241014-AJCL-sunny.zip",
       "version": "20.0"
     }
   ]
