@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1735880269",
-      "filename": "lineage-22.1-20250103-AJCL-GApps-sunny.zip",
-      "id": "1c1985f5ed7d8afc9775e7c308deafa9b5008c80e20b596bc4eba5567693a8bc",
+      "datetime": "1737861994",
+      "filename": "lineage-22.1-20250126-AJCL-GApps-sunny.zip",
+      "id": "e8c04628116c379587f546537a2432323b00af94f15599436df27fac603d3021",
       "romtype": "AJCL",
-      "size": "1482590447",
-      "url": "https://github.com/alonsoj636MW/alonsoj_lineage_releases/releases/download/22.1-20250103/lineage-22.1-20250103-AJCL-GApps-sunny.zip",
+      "size": "1508024354",
+      "url": "https://github.com/alonsoj636MW/alonsoj_lineage_releases/releases/download/22.1-20250126/lineage-22.1-20250126-AJCL-GApps-sunny.zip",
       "variant": "GApps",
       "version": "22.1"
     }
