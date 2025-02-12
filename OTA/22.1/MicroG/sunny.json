@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1738008437",
-      "filename": "lineage-22.1-20250127-AJCL-MicroG-sunny.zip",
-      "id": "4981d071599c7d30752781660072bb564004dc13d5cc80fe0f0992529bde392b",
+      "datetime": "1739329995",
+      "filename": "lineage-22.1-20250212-AJCL-MicroG-sunny.zip",
+      "id": "6397e10350f7119dcb2b69de5db2bb73563662d7839426010cfb8adf15d70c7a",
       "romtype": "AJCL",
-      "size": "1431199818",
-      "url": "https://github.com/alonsoj636MW/alonsoj_lineage_releases/releases/download/22.1-20250127/lineage-22.1-20250127-AJCL-MicroG-sunny.zip",
+      "size": "1421353453",
+      "url": "https://github.com/alonsoj636MW/alonsoj_lineage_releases/releases/download/22.1-20250212/lineage-22.1-20250212-AJCL-MicroG-sunny.zip",
       "variant": "MicroG",
       "version": "22.1"
     }
