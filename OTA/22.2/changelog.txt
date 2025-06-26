@@ -1,6 +1,0 @@
-LineageOS 22.2 by alonsoj636MW
-Build Type: Monthly
-Status: Stable/Maintained
-
--- 01/01/2001 --
-•
