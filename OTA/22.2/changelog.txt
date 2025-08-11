@@ -1,1 +1,11 @@
-- Test file !
+-- August 11, 2025 --
+• July 2025 "Security Patch" level
+• Leica camera included on GApps build (version Universal-5.0-Beta7.3)
+(thanks @Ham1do)
+• Updated themed icons map
+• Enable force monochrome icons
+• PM: Force all packages as installed via Google Play Store
+• Auto call recording added back (stock lineage dialer)
+• Added SpeechServices and Talkback by default (necessary on GApps build)
+• Updated GMSCore to v0.3.9.250932 (MicroG build)
+• A few under-the-hood optimizations
